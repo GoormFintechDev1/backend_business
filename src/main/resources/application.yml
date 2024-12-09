@@ -18,7 +18,7 @@ spring:
         dialect: org.hibernate.dialect.MariaDBDialect
 
   security:
-    enabled:false
+    enabled: false
 
 logging:
   level:
